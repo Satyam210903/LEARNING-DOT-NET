@@ -1,0 +1,636 @@
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.TODO_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.build.TODO_API.props
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODO_API.props
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODO_API.props
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+C:\Users\ecart\Desktop\Satyam\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.staticwebassets.endpoints.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+C:\Satyam\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.staticwebassets.endpoints.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+C:\Satyam\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.TODO_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.build.TODO_API.props
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODO_API.props
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODO_API.props
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.TODO_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.build.TODO_API.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODO_API.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODO_API.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.TODO_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.build.TODO_API.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODO_API.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODO_API.props
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+D:\Satyam\MY Learning Projects\.NET Projects\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.TODO_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.build.TODO_API.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODO_API.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODO_API.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\TEST\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.Development.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\appsettings.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.exe
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.deps.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.runtimeconfig.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Core.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.AssemblyReference.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfoInputs.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.AssemblyInfo.cs
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.CoreCompileInputs.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.TODO_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.build.TODO_API.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODO_API.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODO_API.props
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\scopedcss\bundle\TODO_API.styles.css
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.csproj.Up2Date
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\refint\TODO_API.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.pdb
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\TODO_API.genruntimeconfig.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\TODO_API\FINAL TEST\TODO_API\TODO_API\obj\Debug\net8.0\ref\TODO_API.dll
