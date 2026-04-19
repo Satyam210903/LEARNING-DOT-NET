@@ -1,0 +1,419 @@
+C:\Satyam\VMS\bin\Debug\net8.0-windows\VMS.exe
+C:\Satyam\VMS\bin\Debug\net8.0-windows\VMS.deps.json
+C:\Satyam\VMS\bin\Debug\net8.0-windows\VMS.runtimeconfig.json
+C:\Satyam\VMS\bin\Debug\net8.0-windows\VMS.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\VMS.pdb
+C:\Satyam\VMS\bin\Debug\net8.0-windows\AForge.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\zxing.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\ZXing.Windows.Compatibility.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Satyam\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.csproj.AssemblyReference.cache
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS..resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.Form1.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.Home.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.In.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.Login.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.Out.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.PassMaking.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.Properties.Resources.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.Register.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.Status.resources
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.csproj.GenerateResource.cache
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfoInputs.cache
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfo.cs
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.csproj.CoreCompileInputs.cache
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.csproj.Up2Date
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.dll
+C:\Satyam\VMS\obj\Debug\net8.0-windows\refint\VMS.dll
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.pdb
+C:\Satyam\VMS\obj\Debug\net8.0-windows\VMS.genruntimeconfig.cache
+C:\Satyam\VMS\obj\Debug\net8.0-windows\ref\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\VMS.exe
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\VMS.deps.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\VMS.runtimeconfig.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\VMS.pdb
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\zxing.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\ZXing.Windows.Compatibility.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.AssemblyReference.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS..resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.Form1.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.Home.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.In.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.Login.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.Out.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.PassMaking.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.Properties.Resources.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.Register.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.Status.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.GenerateResource.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfoInputs.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfo.cs
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.CoreCompileInputs.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.Up2Date
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\refint\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.pdb
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\VMS.genruntimeconfig.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\MY Learning Projects\VMS\obj\Debug\net8.0-windows\ref\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.exe
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.deps.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.runtimeconfig.json
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.pdb
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\zxing.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ZXing.Windows.Compatibility.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.AssemblyReference.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS..resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Form1.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Home.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.In.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Login.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Out.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.PassMaking.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Properties.Resources.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Register.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Status.resources
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.GenerateResource.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfoInputs.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfo.cs
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.CoreCompileInputs.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.Up2Date
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\refint\VMS.dll
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.pdb
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.genruntimeconfig.cache
+C:\Users\ecart\Desktop\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\ref\VMS.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.exe
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\AForge.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\AForge.Video.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\QRCoder.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\zxing.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ZXing.Windows.Compatibility.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.AssemblyReference.cache
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS..resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Form1.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Home.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.In.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Login.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Out.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.PassMaking.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Properties.Resources.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Register.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.Status.resources
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.GenerateResource.cache
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfoInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfo.cs
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.CoreCompileInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.csproj.Up2Date
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\refint\VMS.dll
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.deps.json
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.runtimeconfig.json
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\bin\Debug\net8.0-windows\VMS.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\VMS.genruntimeconfig.cache
+D:\Satyam\MY Learning Projects\.NET Projects\VMS\obj\Debug\net8.0-windows\ref\VMS.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\VMS.exe
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\VMS.deps.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\VMS.runtimeconfig.json
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\VMS.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\VMS.pdb
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\AForge.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\AForge.Video.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\QRCoder.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\zxing.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\ZXing.Windows.Compatibility.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.csproj.AssemblyReference.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS..resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.Form1.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.Home.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.In.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.Login.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.Out.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.PassMaking.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.Properties.Resources.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.Register.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.Status.resources
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.csproj.GenerateResource.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfoInputs.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.AssemblyInfo.cs
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.csproj.CoreCompileInputs.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.csproj.Up2Date
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\refint\VMS.dll
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.pdb
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\VMS.genruntimeconfig.cache
+D:\Satyam\MY LEARNING PROJECTS\.NET\VMS\obj\Debug\net8.0-windows\ref\VMS.dll
