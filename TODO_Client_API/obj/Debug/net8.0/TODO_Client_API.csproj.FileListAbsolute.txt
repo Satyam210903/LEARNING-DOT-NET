@@ -1,0 +1,42 @@
+C:\Satyam\MY Learning Projects\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.exe
+C:\Satyam\MY Learning Projects\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.deps.json
+C:\Satyam\MY Learning Projects\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.runtimeconfig.json
+C:\Satyam\MY Learning Projects\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.dll
+C:\Satyam\MY Learning Projects\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.pdb
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.AssemblyInfoInputs.cache
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.AssemblyInfo.cs
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.csproj.CoreCompileInputs.cache
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.dll
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\refint\TODO_Client_API.dll
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.pdb
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.genruntimeconfig.cache
+C:\Satyam\MY Learning Projects\TODO_Client_API\obj\Debug\net8.0\ref\TODO_Client_API.dll
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.AssemblyInfoInputs.cache
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.AssemblyInfo.cs
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.csproj.CoreCompileInputs.cache
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.dll
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\refint\TODO_Client_API.dll
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.pdb
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.exe
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.deps.json
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.runtimeconfig.json
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.dll
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.pdb
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.genruntimeconfig.cache
+C:\Satyam\MY Learning Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\ref\TODO_Client_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.exe
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.deps.json
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.runtimeconfig.json
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\bin\Debug\net8.0\TODO_Client_API.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.AssemblyInfoInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.AssemblyInfo.cs
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.csproj.CoreCompileInputs.cache
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\refint\TODO_Client_API.dll
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.pdb
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\TODO_Client_API.genruntimeconfig.cache
+D:\Satyam\MY Learning Projects\.NET Projects\Api Testing\TODO_Client_API\obj\Debug\net8.0\ref\TODO_Client_API.dll
